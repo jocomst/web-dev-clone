@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
@@ -101,3 +102,6 @@ Our team produces other curricula! Check out:
 - [Machine Learning for Beginners](https://aka.ms/ml-beginners)
 - [IoT for Beginners](https://aka.ms/iot-beginners)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners)
+=======
+# web-dev-clone
+>>>>>>> 41fb0582ea2e597415c7feec92d52029c3f46b74
